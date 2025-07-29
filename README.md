@@ -1,46 +1,7 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Wen-Hai Tseng | CV</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      max-width: 900px;
-      margin: 0 auto;
-      padding: 2em;
-      background: #f8f9fa;
-      color: #212529;
-    }
-    h1, h2, h3 {
-      color: #343a40;
-    }
-    h1 {
-      text-align: center;
-      margin-bottom: 0.2em;
-    }
-    .center {
-      text-align: center;
-    }
-    section {
-      margin-bottom: 2em;
-    }
-    ul {
-      padding-left: 1.2em;
-    }
-    img.photo {
-      display: block;
-      margin: 1em auto;
-      width: 160px;
-      border-radius: 12px;
-    }
-    .cert {
-      max-width: 100%;
-      margin: 1em 0;
-      border: 1px solid #ccc;
-    }
-  </style>
 </head>
 <body>
   <h1>Wen-Hai Tseng</h1>
