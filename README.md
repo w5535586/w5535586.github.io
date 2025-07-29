@@ -5,10 +5,10 @@
 </head>
 <body>
   <h1>Wen-Hai Tseng</h1>
+  <img src="images/曾文海證件照.JPG" alt="Wen-Hai Tseng Photo" width="200" height="260" style="display:block; margin:1em auto; object-fit:cover; border-radius:12px;" />
   <p class="center">Master Student – Institute of Data Science, National Cheng Kung University</p>
   <p class="center">📧 RE6124027@gs.ncku.edu.tw ｜ 🔗 <a href="https://github.com/w5535586">github.com/w5535586</a></p>
-  <img src="images/曾文海證件照.JPG" alt="Wen-Hai Tseng Photo" class="photo" />
-
+  
   <section>
     <h2>Education</h2>
     <ul>
@@ -58,9 +58,9 @@
 
   <section>
     <h2>Award Certificates</h2>
-    <img src="images/AICUP_曾文海佳作.jpg" alt="AI CUP Honorable Mention" class="cert" />
-    <img src="images/AICUP_曾文海創意獎.jpg" alt="AI CUP Creative Award" class="cert" />
-    <img src="images/ACMM_曾文海.jpg" alt="ACM MM 2nd Place" class="cert" />
+    <img src="images/AICUP_曾文海佳作.jpg" alt="AI CUP Honorable Mention" width="360" height="300" style="display:block; margin:1em auto; object-fit:cover; border-radius:12px;" />
+    <img src="images/AICUP_曾文海創意獎.jpg" alt="AI CUP Creative Award" width="360" height="300" style="display:block; margin:1em auto; object-fit:cover; border-radius:12px;" />
+    <img src="images/ACMM_曾文海.jpg" alt="ACM MM 2nd Place" width="360" height="300" style="display:block; margin:1em auto; object-fit:cover; border-radius:12px;" />
   </section>
 
 </body>
